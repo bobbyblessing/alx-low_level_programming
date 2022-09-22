@@ -1,9 +1,7 @@
 #include <stdio.h>
 	/**
 	 *
-	 * main - Entry point
-	 *
-	 * Description: main - Puts out a string to stdout.
+	 * main - Puts out a string to stdout.
 	 *
 	 * Return: 0
 	 */
