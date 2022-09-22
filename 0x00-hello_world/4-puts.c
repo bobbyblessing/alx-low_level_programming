@@ -1,6 +1,8 @@
 #include <stdio.h>
 	/**
-	 * Description :main - Puts out a string to stdout.
+	 *
+	 * Description: main - Puts out a string to stdout.
+	 *
 	 * Return: 0
 	 */
 int main(void)
